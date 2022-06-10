@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Person": {
     "title": { "string": {} },
     "body": { "string": {} },
     "avatar": {
