@@ -1,5 +1,5 @@
 {
-  "Person": {
+  "Post": {
     "title": { "string": {} },
     "body": { "string": {} },
     "avatar": {
@@ -25,7 +25,7 @@
   },
   "Comment": {
     "body": { "string": {} },
-    "post": {
+    "person": {
       "belongsTo": "Post"
     }
   }
